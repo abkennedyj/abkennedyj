@@ -1,5 +1,5 @@
 <h1>Hi, I'm Josiah! 
-<br/><a href="https://github.com/abkennedyj">IT Support | Junior SOC</a>, <a href="https://www.linkedin.com/in/josiahtakyi/">Cybersecurity Professional</a></h1>
+<br/><a href="https://github.com/abkennedyj">Junior SOC</a>, <a href="https://www.linkedin.com/in/josiahtakyi/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -7,7 +7,7 @@
 
 <h2>📄 Certifications:</h2>
 
-- [Google IT Support Professional Certificate](/*https://github.com/joshmadakor1/Algorithms-Practice*/)
+- [Google Cybersecurity Professional Certificate](/*https://github.com/joshmadakor1/Algorithms-Practice*/)
 
 <h2>📺 Popular YouTube Videos</h2>
 - [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
