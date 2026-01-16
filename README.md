@@ -3,13 +3,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Web Vulnerabilty Scanner](/*https://github.com/joshmadakor1/Algorithms-Practice*/)
+- [Web Vulnerabilty Scanner](/*https://github.com/abkennedyj/web-vuln-scanner*/)
 - [IDS System](/*https://github.com/joshmadakor1/Algorithms-Practice*/)
 
 
 <h2>📄 Certifications:</h2>
 
-- [Google Cybersecurity Professional Certificate](/*https://github.com/joshmadakor1/Algorithms-Practice*/)
+- [Google Cybersecurity Professional Certificate](/*https://www.coursera.org/account/accomplishments/specialization/7G9HZZP46ZK9*/)
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -29,7 +29,7 @@
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**abkennedyj/abkennedyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
