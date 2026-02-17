@@ -1,7 +1,8 @@
-<h1>Hi, I'm Josiah! 
-<br/><a href="https://github.com/abkennedyj">Junior SOC</a>, <a href="https://www.linkedin.com/in/josiahtakyi/">Cybersecurity Professional</a></h1>
+<h1><a href="https://www.linkedin.com/in/josiahtakyi/"> Josiah</a>'s IT and Cybersecurity Project Portfolio🧑🏿‍💻</h1>  
+I’m an aspiring cybersecurity analyst with a strong interest in computers and information security. Driven by a passion for protecting digital assets and solving technical problems through hands-on work. I’ve worked on projects covering vulnerability management and threat detection, which have helped me better understand real-world security operations. You’re welcome to check out my projects to see how I apply what I learn in practical ways.
+<!--<br/><a href="https://github.com/abkennedyj">Junior SOC</a>, <a href="https://www.linkedin.com/in/josiahtakyi/">Cybersecurity Professional</a></h1> -->
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>⚠️Vulnerability Management Projects:</h2>
 
 - [Nessus - Vulnerabity Management]()
 
@@ -9,7 +10,7 @@
 <h2>📄 Certifications:</h2>
 
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/7G9HZZP46ZK9)
-- [Google AI Essentials Specialization](https://www.coursera.org/account/accomplishments/specialization/FVLTTDK2IH2A)
+- [Google AI Essentials](https://www.coursera.org/account/accomplishments/specialization/FVLTTDK2IH2A)
 
 <!--<h2>📺 Popular YouTube Videos</h2>
 
