@@ -4,7 +4,7 @@ I’m an aspiring cybersecurity analyst with a strong interest in computers and 
 
 <h2>⚠️Vulnerability Management Projects:</h2>
 
-- [Nessus - Vulnerabity Management]()
+- [Vulnerabity Management - Nessus](https://github.com/abkennedyj/vulnerability-management-nessus)
 
 
 <h2>📄 Certifications:</h2>
